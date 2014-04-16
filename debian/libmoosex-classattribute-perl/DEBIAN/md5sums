@@ -1,7 +1,7 @@
 641d817ce0e896eae70b98d1d9a72b48  usr/share/doc/libmoosex-classattribute-perl/README
-02ebb32f642bc6ffb06743891b76d9de  usr/share/doc/libmoosex-classattribute-perl/changelog.Debian.gz
+eb33bba07b6e2803a4541ba6a3b8f8ce  usr/share/doc/libmoosex-classattribute-perl/changelog.Debian.gz
 a74b16e333743f8c193a39e442a63000  usr/share/doc/libmoosex-classattribute-perl/changelog.gz
-c24d020a1008bf2cce022728f8c429ae  usr/share/doc/libmoosex-classattribute-perl/copyright
+fe48ce14ed692f305b98156f78fe795e  usr/share/doc/libmoosex-classattribute-perl/copyright
 20c5dad8555fdf770766f27ce4845079  usr/share/man/man3/MooseX::ClassAttribute.3pm.gz
 187973949eeea65308419b0057f73c56  usr/share/man/man3/MooseX::ClassAttribute::Meta::Role::Attribute.3pm.gz
 09ab16eb993e95ed447d19d415749b63  usr/share/man/man3/MooseX::ClassAttribute::Trait::Application.3pm.gz

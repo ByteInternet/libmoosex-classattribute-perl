@@ -1,7 +1,7 @@
 Source: libmoosex-classattribute-perl
 Section: perl
 Priority: optional
-Maintainer: root <root@38fac86a5734>
+Maintainer: Sjoerd Langkemper <sjoerd@byte.nl>
 Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: liblist-moreutils-perl,
  libmoose-perl (>= 2.00),
@@ -11,7 +11,7 @@ Build-Depends-Indep: liblist-moreutils-perl,
  libtest-requires-perl (>= 0.05),
  perl,
  perl-base,
- perl-modules (>= 6.30)
+ perl-modules (>= 5.10)
 Standards-Version: 3.9.2
 Homepage: http://search.cpan.org/dist/MooseX-ClassAttribute/
 
