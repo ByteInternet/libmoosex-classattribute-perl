@@ -1,0 +1,29 @@
+Source: libmoosex-classattribute-perl
+Section: perl
+Priority: optional
+Maintainer: root <root@38fac86a5734>
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: liblist-moreutils-perl,
+ libmoose-perl (>= 2.00),
+ libnamespace-autoclean-perl (>= 0.11),
+ libnamespace-clean-perl (>= 0.20),
+ libtest-fatal-perl,
+ libtest-requires-perl (>= 0.05),
+ perl,
+ perl-base,
+ perl-modules (>= 6.30)
+Standards-Version: 3.9.2
+Homepage: http://search.cpan.org/dist/MooseX-ClassAttribute/
+
+Package: libmoosex-classattribute-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends},
+ liblist-moreutils-perl,
+ libmoose-perl (>= 2.00),
+ libnamespace-autoclean-perl (>= 0.11),
+ libnamespace-clean-perl (>= 0.20),
+ perl-base
+Description: Declare class attributes Moose-style
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.

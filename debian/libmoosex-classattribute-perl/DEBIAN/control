@@ -1,0 +1,13 @@
+Package: libmoosex-classattribute-perl
+Version: 0.27-1
+Architecture: all
+Maintainer: root <root@38fac86a5734>
+Installed-Size: 135
+Depends: perl, liblist-moreutils-perl, libmoose-perl (>= 2.00), libnamespace-autoclean-perl (>= 0.11), libnamespace-clean-perl (>= 0.20), perl-base
+Section: perl
+Priority: optional
+Homepage: http://search.cpan.org/dist/MooseX-ClassAttribute/
+Description: Declare class attributes Moose-style
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
